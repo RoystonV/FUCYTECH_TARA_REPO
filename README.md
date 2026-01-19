@@ -64,8 +64,6 @@ ISO/SAE 21434 Documents + LLM
 
 ##  Setup Instructions
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/<org-or-username>/tara-report-generator.git
-cd tara-report-generator
+### install the file and execute step by step 
 
+Note: requirement of google gemini api key
