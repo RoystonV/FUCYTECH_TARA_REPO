@@ -64,6 +64,13 @@ ISO/SAE 21434 Documents + LLM
 
 ##  Setup Instructions
 
-### install the file and execute step by step 
+### Step 1: 
+#### Download all the files 
+### Step 2:
+#### Open TARA_version.ipynb (or latest version)
+### Step 3:
+#### Club the clause files in a folder labelled Clauses
+### Step 4:
+#### Run the .ipynb file step by step
 
 Note: requirement of google gemini api key
