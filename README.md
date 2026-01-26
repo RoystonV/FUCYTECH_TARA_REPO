@@ -74,6 +74,9 @@ ISO/SAE 21434 Documents + LLM
 #### Open TARA_test_rvfinal (1).ipynb
 ### Step 3:
 #### Club the clause files in a folder labelled Clauses
+below is how it has to be organized
+<img width="310" height="477" alt="image" src="https://github.com/user-attachments/assets/0b1d0026-e5ba-421f-ab38-c994cd3e95a3" />
+
 ### Step 4:
 #### Run the .ipynb file step by step
 
