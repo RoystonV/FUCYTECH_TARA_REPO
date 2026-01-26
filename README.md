@@ -67,7 +67,7 @@ ISO/SAE 21434 Documents + LLM
 ### Step 1: 
 #### Download all the files 
 ### Step 2:
-#### Open TARA_test_rvfinal
+#### Open TARA_test_rvfinal (1).ipynb
 ### Step 3:
 #### Club the clause files in a folder labelled Clauses
 ### Step 4:
