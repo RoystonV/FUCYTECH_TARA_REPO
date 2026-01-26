@@ -8,6 +8,10 @@ An internal web application for generating **ISO/SAE 21434–aligned Threat Anal
 The tool leverages **Retrieval‑Augmented Generation (RAG)** and **Large Language Models (LLMs)** to assist cybersecurity engineers in producing structured, consistent, and auditable TARA outputs.
 
 ---
+##  Important Note 
+
+Please note that are mutliple version of the projects please use the latest Version which is mentioned in the Readme
+
 
 ##  Overview
 
